@@ -1,0 +1,1 @@
+# Second_smallest_number
